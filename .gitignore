@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+*/.venv/
+venv/
+env/
+
+# Arquivos sensiveis
+.env
+*.env
+!.env.example
+
+# Cache Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.pyd
+
+# Sistema / IDE
+.DS_Store
+.vscode/
