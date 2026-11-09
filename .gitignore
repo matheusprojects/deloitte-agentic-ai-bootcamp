@@ -9,11 +9,12 @@ env/
 *.env
 !.env.example
 
-# Cache Python
+# Cache Python e testes
 __pycache__/
 */__pycache__/
 *.py[cod]
 *.pyd
+.pytest_cache/
 
 # Sistema / IDE
 .DS_Store

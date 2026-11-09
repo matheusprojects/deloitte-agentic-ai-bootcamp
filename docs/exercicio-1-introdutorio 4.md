@@ -1,6 +1,6 @@
 # Semana 1, exercício 1 (introdutório): qual navio chega primeiro?
 
-**Quando:** meio da semana (segunda e terça). **Tema:** LangChain e LangGraph, parte 1. **Dados:** [`dados/frota_simples.json`](dados/frota_simples.json).
+**Quando:** meio da semana (segunda e terça). **Tema:** LangChain e LangGraph, parte 1. **Dados:** [`src/app/dados/frota_simples 4.json`](../src/app/dados/frota_simples%204.json).
 
 ## O desafio, em poucas palavras
 

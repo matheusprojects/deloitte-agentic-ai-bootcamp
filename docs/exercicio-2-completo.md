@@ -1,6 +1,6 @@
 # Semana 1, exercício 2 (completo): o despachante do porto
 
-**Quando:** fim da semana (quarta a sexta). **Tema:** LangChain e LangGraph, parte 2: condicionais, tool calling e human-in-the-loop. **Dados:** [`dados/frota_tempestade.json`](dados/frota_tempestade.json). **Pré-requisito:** exercício 1 concluído.
+**Quando:** fim da semana (quarta a sexta). **Tema:** LangChain e LangGraph, parte 2: condicionais, tool calling e human-in-the-loop. **Dados:** [`src/app/dados/frota_tempestade.json`](../src/app/dados/frota_tempestade.json). **Pré-requisito:** exercício 1 concluído.
 
 ## O desafio, em poucas palavras
 
